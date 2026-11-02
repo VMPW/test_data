@@ -1,0 +1,6 @@
+name: Experiment
+author: LRZ
+description: Plasmasim
+transform: [[0, 0, 0], [0, -0, 0, 1], [1, 1, 1]]
+modelPath: "https://github.com/VMPW/test_data/raw/main/step_520.fbx"
+url: ""
